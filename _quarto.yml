@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "R Project Sprint 2027"
+  navbar:
+    left: 
+      - href: code-of-conduct.qmd
+        text: Code of Conduct
+    right:
+      - icon: mastodon
+        href: https://mastodon.cloud/tags/RSprint2027
+      - icon: github
+        href: https://github.com/r-devel/r-project-sprint-2027
+  site-url: https://contributor.r-project.org/r-project-sprint-2027
+  favicon: media/favicon.png
+
+format:
+  html:
+    css: styles.css
+    link-external-newwindow: true
+    toc: true  
+    email-obfuscation: references
+
+editor: visual
+
+execute:
+  freeze: auto
+
+
+

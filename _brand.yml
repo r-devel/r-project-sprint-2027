@@ -1,0 +1,48 @@
+meta:
+  name: "R Project Sprint 2027"
+  links:
+    home: https://contributor.r-project.org/r-project-sprint-2027
+    github: https://github.com/r-devel/r-project-sprint-2027
+
+color:
+  palette:
+    blue: "#246BC0"
+    pink: "#C024B9"
+    green: "#24C02B"
+    orange: "#C07924"
+    dark: "#030911"
+    light-blue: "#96B8E1"
+    dark-blue: "#103054"
+    white: "#FFFFFF"
+  primary: blue
+  background: 
+    dark: dark
+  foreground: 
+    dark: white
+
+typography:
+  fonts:
+    - family: Inter
+      source: google
+    - family: Fira Mono
+      source: google
+    - family: Outfit
+      source: google
+  base:
+    family: Inter
+  headings:
+    family: Outfit
+    weight: normal
+  link:
+    color: 
+      light: blue
+      dark: light-blue
+  monospace:
+    family: Fira Mono
+    size: 1em
+
+defaults:
+  bootstrap:
+    defaults:
+        dropdown-link-hover-bg: $brand-blue
+        dropdown-link-hover-color: $brand-white
