@@ -34,9 +34,9 @@ This sprint will bring together novice and experienced contributors, to work alo
 
 - Developing contributor infrastructure such as the [R Development Guide](https://contributor.r-project.org/rdevguide/).
 
+<!-- 
 For a short report on R Project Sprint, see the [BEAR Blog post]() [link TBA].
 
-<!-- 
 You can read about the previous edition in 2023 in [this R Journal article](https://journal.r-project.org/news/RJ-2023-3-sprint/).
 -->
 
@@ -61,7 +61,7 @@ We are also keen to foster a diverse community of contributors. If you are a mem
 
 ## Apply for a place
 
-Anyone interested to attend the sprint is encouraged to self-nominate via the [application form]() [link TBA] by **Friday 4 December**. 
+Anyone interested to attend the sprint is encouraged to self-nominate via the [application form](https://rfoundation.limequery.com/375163) by **Friday 4 December**. 
 You will be asked about your experience, skills and background to help us balance participation overall.
 
 Thanks to our [sponsors](#sponsors), lunch and refreshments will be provided for all participants during the sprint.
