@@ -11,7 +11,7 @@
     "href": "index.html#about-the-sprint",
     "title": "R Project Sprint 2027",
     "section": "About the sprint",
-    "text": "About the sprint\nR is a popular and widely used software for data science. Like any large open source software project, it takes a lot of work to maintain and develop. Much of the work is done by a small number of volunteers and there is a need to grow the contributor community.\nThis sprint will bring together novice and experienced contributors, to work alongside members of the R Core Team. Participants will work collaboratively on contributions to base R and related infrastructure. The tasks will be prepared in the run-up to the event, but may include:\n\nReviewing, analysing and fixing bugs reported on R’s Bugzilla.\nWork on new developments proposed by core developers.\nContributing to CRAN packages affected by changes in base R.\nMaintaining translation infrastructure such as the Weblate instance.\nDeveloping contributor infrastructure such as the R Development Guide.\n\nFor a short report on R Project Sprint, see the BEAR Blog post [link TBA]."
+    "text": "About the sprint\nR is a popular and widely used software for data science. Like any large open source software project, it takes a lot of work to maintain and develop. Much of the work is done by a small number of volunteers and there is a need to grow the contributor community.\nThis sprint will bring together novice and experienced contributors, to work alongside members of the R Core Team. Participants will work collaboratively on contributions to base R and related infrastructure. The tasks will be prepared in the run-up to the event, but may include:\n\nReviewing, analysing and fixing bugs reported on R’s Bugzilla.\nWork on new developments proposed by core developers.\nContributing to CRAN packages affected by changes in base R.\nMaintaining translation infrastructure such as the Weblate instance.\nDeveloping contributor infrastructure such as the R Development Guide."
   },
   {
     "objectID": "index.html#who-can-take-part",
@@ -25,7 +25,7 @@
     "href": "index.html#apply-for-a-place",
     "title": "R Project Sprint 2027",
     "section": "Apply for a place",
-    "text": "Apply for a place\nAnyone interested to attend the sprint is encouraged to self-nominate via the application form [link TBA] by Friday 4 December. You will be asked about your experience, skills and background to help us balance participation overall.\nThanks to our sponsors, lunch and refreshments will be provided for all participants during the sprint.\nFunding is also available to cover participant travel and accommodation. However if participants are able to fund their travel and accommodation from other sources this will allow more people to attend - companies or other funding bodies providing such support to participants can be acknowledged as sponsors."
+    "text": "Apply for a place\nAnyone interested to attend the sprint is encouraged to self-nominate via the application form by Friday 4 December. You will be asked about your experience, skills and background to help us balance participation overall.\nThanks to our sponsors, lunch and refreshments will be provided for all participants during the sprint.\nFunding is also available to cover participant travel and accommodation. However if participants are able to fund their travel and accommodation from other sources this will allow more people to attend - companies or other funding bodies providing such support to participants can be acknowledged as sponsors."
   },
   {
     "objectID": "index.html#practicalities",
@@ -46,7 +46,7 @@
     "href": "index.html#organizing-team",
     "title": "R Project Sprint 2027",
     "section": "Organizing team",
-    "text": "Organizing team\n\n\n\n  Heather Turner   Principal RSER Core Developer   \n\n\nWe are coordinating with the R Contribution Working Group and the R Core Team."
+    "text": "Organizing team\n\n\n\n  Heather Turner   Principal RSER Core Developer   \n\n\n  Mikael Jagan   Software EngineerR Core Developer  \n\n\nWe are coordinating with the wider R Contribution Working Group and the R Core Team."
   },
   {
     "objectID": "index.html#contact",
