@@ -105,9 +105,19 @@ person_info(name = "Heather Turner",
             email = "h.l.turner@bham.ac.uk")
 ```
 :::
+
+::: {#person2}
+```{r, results = "asis"}
+person_info(name = "Mikael Jagan",
+            affiliation = "Software Engineer<br>R Core Developer",
+            alt = "Headshot of Mikael Jagan",
+            website = "https://codeberg.org/jaganmn")
+```
+:::
+
 :::::
 
-We are coordinating with the [R Contribution Working Group](https://contributor.r-project.org/working-group) and the R Core Team.
+We are coordinating with the wider [R Contribution Working Group](https://contributor.r-project.org/working-group) and the R Core Team.
 
 ## Contact
 
