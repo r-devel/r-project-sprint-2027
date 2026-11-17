@@ -3,7 +3,7 @@ title: "R Project Sprint 2027"
 image: temp
 ---
 
-**Week beginning April 12, Boston, USA**
+**Week beginning April 12, Boston, USA (3 days)**
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
@@ -12,7 +12,7 @@ source(file.path("R", "functions.R"))
 
 *Collaborate on contributions to base R!*
 
-We are pleased to announce another R Project Sprint, to be hosted in **Boston, USA, in the week of Monday April 12, 2027**. Novice and experienced contributors are encouraged to apply for a place, with funding available for travel and accommodation (deadline **Friday 4 December**). Read on for more! **#RSprint2027**
+We are pleased to announce another R Project Sprint, to be hosted in **Boston, USA, for 3 days in the week of Monday April 12, 2027** (exact dates TBD). Novice and experienced contributors are encouraged to apply for a place, with funding available for travel and accommodation (deadline **Friday 4 December**). Read on for more! **#RSprint2027**
 
 ![](media/group_thursday.jpg){fig-alt="A group photo of participants at R Project Sprint 2026" fig-align="center"}
 
